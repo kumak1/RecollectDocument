@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{67:function(c){c.exports=JSON.parse('{"allTagsPath":"/RecollectDocument/blog/tags","slug":"recollect-actor","name":"recollectactor","count":3,"permalink":"/RecollectDocument/blog/tags/recollect-actor"}')}}]);
