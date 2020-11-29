@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{85:function(e){e.exports=JSON.parse('{"allTagsPath":"/RecollectDocument/blog/tags","slug":"shader","name":"shader","count":1,"permalink":"/RecollectDocument/blog/tags/shader"}')}}]);
