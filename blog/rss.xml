@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Recollect User Manual Blog</title>
+        <link>https://kumak1.github.io/blog</link>
+        <description>Recollect User Manual Blog</description>
+        <lastBuildDate>Sun, 20 Dec 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Recollect 0.2.7]]></title>
+            <link>https://kumak1.github.io/RecollectDocument/blog/2020/12/20/0.2.7</link>
+            <guid>Recollect 0.2.7</guid>
+            <pubDate>Sun, 20 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[ダウンロード]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Recollect 0.2.6]]></title>
+            <link>https://kumak1.github.io/RecollectDocument/blog/2020/11/29/0.2.6</link>
+            <guid>Recollect 0.2.6</guid>
+            <pubDate>Sun, 29 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[ダウンロード]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Recollect 0.2.5]]></title>
+            <link>https://kumak1.github.io/RecollectDocument/blog/2020/10/18/0.2.5</link>
+            <guid>Recollect 0.2.5</guid>
+            <pubDate>Sun, 18 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[ダウンロード]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Recollect 0.2.4]]></title>
+            <link>https://kumak1.github.io/RecollectDocument/blog/2020/10/02/0.2.4</link>
+            <guid>Recollect 0.2.4</guid>
+            <pubDate>Fri, 02 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[ダウンロード]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Recollect 0.2.3]]></title>
+            <link>https://kumak1.github.io/RecollectDocument/blog/2020/09/22/0.2.3</link>
+            <guid>Recollect 0.2.3</guid>
+            <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[ダウンロード]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Recollect 0.2.2]]></title>
+            <link>https://kumak1.github.io/RecollectDocument/blog/2020/09/20/0.2.2</link>
+            <guid>Recollect 0.2.2</guid>
+            <pubDate>Sun, 20 Sep 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[ダウンロード]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Recollect 0.2.1]]></title>
+            <link>https://kumak1.github.io/RecollectDocument/blog/2020/09/19/0.2.1</link>
+            <guid>Recollect 0.2.1</guid>
+            <pubDate>Sat, 19 Sep 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[ダウンロード]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Recollect 0.2.0]]></title>
+            <link>https://kumak1.github.io/RecollectDocument/blog/2020/09/18/0.2.0</link>
+            <guid>Recollect 0.2.0</guid>
+            <pubDate>Fri, 18 Sep 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[ダウンロード]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Recollect 0.1.0]]></title>
+            <link>https://kumak1.github.io/RecollectDocument/blog/2020/09/06/0.1.0</link>
+            <guid>Recollect 0.1.0</guid>
+            <pubDate>Sun, 06 Sep 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[ダウンロード]]></description>
+        </item>
+    </channel>
+</rss>
