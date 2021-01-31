@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{79:function(e){e.exports=JSON.parse('{"allTagsPath":"/RecollectDocument/blog/tags","slug":"level-design","name":"leveldesign","count":2,"permalink":"/RecollectDocument/blog/tags/level-design"}')}}]);
