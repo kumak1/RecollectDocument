@@ -4,22 +4,29 @@
         <title>Recollect User Manual Blog</title>
         <link>https://kumak1.github.io/blog</link>
         <description>Recollect User Manual Blog</description>
-        <lastBuildDate>Sat, 13 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Recollect 0.2.14]]></title>
+            <link>https://kumak1.github.io/RecollectDocument/blog/2021/02/20/0.2.14</link>
+            <guid>Recollect 0.2.14</guid>
+            <pubDate>Sat, 20 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[ダウンロード]]></description>
+        </item>
         <item>
             <title><![CDATA[Recollect 0.2.13]]></title>
             <link>https://kumak1.github.io/RecollectDocument/blog/2021/02/13/0.2.13</link>
             <guid>Recollect 0.2.13</guid>
             <pubDate>Sat, 13 Feb 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[);]]></description>
+            <description><![CDATA[ダウンロード]]></description>
         </item>
         <item>
             <title><![CDATA[Recollect 0.2.12]]></title>
             <link>https://kumak1.github.io/RecollectDocument/blog/2021/02/01/0.2.12</link>
             <guid>Recollect 0.2.12</guid>
             <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[);]]></description>
+            <description><![CDATA[ダウンロード]]></description>
         </item>
         <item>
             <title><![CDATA[Recollect 0.2.11]]></title>
@@ -47,7 +54,7 @@
             <link>https://kumak1.github.io/RecollectDocument/blog/2021/01/10/0.2.8</link>
             <guid>Recollect 0.2.8</guid>
             <pubDate>Sun, 10 Jan 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[);]]></description>
+            <description><![CDATA[ダウンロード]]></description>
         </item>
         <item>
             <title><![CDATA[Recollect 0.2.7]]></title>
