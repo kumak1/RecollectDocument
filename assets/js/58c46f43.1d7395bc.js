@@ -1,0 +1,1 @@
+(self.webpackChunkuser_manual=self.webpackChunkuser_manual||[]).push([[4418],{3322:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/RecollectDocument/blog/tags","slug":"screen-shot","name":"screenshot","count":2,"permalink":"/RecollectDocument/blog/tags/screen-shot"}')}}]);
