@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kumak1.github.io/RecollectDocument/blog</id>
     <title>Recollect User Manual Blog</title>
-    <updated>2021-06-05T00:00:00.000Z</updated>
+    <updated>2021-06-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kumak1.github.io/RecollectDocument/blog"/>
     <subtitle>Recollect User Manual Blog</subtitle>
@@ -10,8 +10,8 @@
     <entry>
         <title type="html"><![CDATA[Recollect 0.3.5]]></title>
         <id>Recollect 0.3.5</id>
-        <link href="https://kumak1.github.io/RecollectDocument/blog/2021/06/05/0.3.5"/>
-        <updated>2021-06-05T00:00:00.000Z</updated>
+        <link href="https://kumak1.github.io/RecollectDocument/blog/2021/06/26/0.3.5"/>
+        <updated>2021-06-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[ダウンロード]]></summary>
     </entry>
     <entry>
