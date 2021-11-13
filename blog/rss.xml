@@ -4,9 +4,16 @@
         <title>Recollect User Manual Blog</title>
         <link>https://kumak1.github.io/RecollectDocument/blog</link>
         <description>Recollect User Manual Blog</description>
-        <lastBuildDate>Sun, 07 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Recollect 0.4.9]]></title>
+            <link>https://kumak1.github.io/RecollectDocument/blog/2021/11/14/0.4.9</link>
+            <guid>Recollect 0.4.9</guid>
+            <pubDate>Sun, 14 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[ダウンロード]]></description>
+        </item>
         <item>
             <title><![CDATA[Recollect 0.4.8]]></title>
             <link>https://kumak1.github.io/RecollectDocument/blog/2021/11/07/0.4.8</link>
