@@ -20,6 +20,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Recollect 0.5.0]]></title>
+        <id>Recollect 0.5.0</id>
+        <link href="https://kumak1.github.io/RecollectDocument/blog/2021/11/14/0.5.0"/>
+        <updated>2021-11-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ダウンロード]]></summary>
+        <content type="html"><![CDATA[<h2>ダウンロード</h2><ul><li><a href="https://gofile.me/6EgEy/ZJ2kDlosd">Recollect.2021.1121.1.script.unitypackage</a></li></ul><h2>変更箇所</h2><ul><li>Recollect Actor<ul><li>Profile<ul class="contains-task-list"><li class="task-list-item"><input type="checkbox" checked="" disabled=""/> <!-- -->Equip Item Set の SkinSwitchParam をそのまま登録できるようにする</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""/> <!-- -->SkinSwitchParam に Equip の設定項目（Damage,Fxなど）を設定できるようにする</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""/> <!-- -->新しく登録できるようなった設定で、動作するようにする<ul><li><img src="../static/img/blog/2021/11-20-001.png" alt="img.png"/></li></ul></li></ul></li></ul></li><li>Recollect Director<ul><li>Camera<ul class="contains-task-list"><li class="task-list-item"><input type="checkbox" checked="" disabled=""/> <!-- -->Sensor Size を変更できるようにしました<ul><li><img src="../static/img/blog/2021/11-20-002.png" alt="img.png"/></li></ul></li></ul></li><li>Spawn<ul class="contains-task-list"><li class="task-list-item"><input type="checkbox" disabled=""/> <!-- -->Profile の Equip を選択できるようにする</li><li class="task-list-item"><input type="checkbox" disabled=""/> <!-- -->Motion を選択できるようにする</li></ul></li></ul></li></ul><h2>今後修正すること</h2><ul><li>Recollect Actor<ul class="contains-task-list"><li class="task-list-item"><input type="checkbox" disabled=""/> <code>Guard</code> <code>転倒</code> 状態を追加する（現在は <code>通常</code> <code>戦闘</code> のみ）<ul class="contains-task-list"><li class="task-list-item"><input type="checkbox" disabled=""/> <code>Guard</code> 状態を追加する</li><li class="task-list-item"><input type="checkbox" disabled=""/> <code>転倒</code> 状態を追加する</li></ul></li><li>真っ二つ<ul><li><a href="https://www.youtube.com/watch?v=i--UUeGTMvo">https://www.youtube.com/watch?v=i--UUeGTMvo</a></li></ul></li></ul></li><li>Recollect Director<ul><li>攻撃などのエフェクトの初回起動時の動作が重いので、オブジェクトプールを導入する</li><li>コマ止めのアニメ表現の実現方法を調べる</li></ul></li><li>Level Design<ul><li>カットシーンのイベントの作成<ul><li><a href="https://assetstore.unity.com/packages/templates/systems/easy-event-maker-88686">Asset</a> はダメそうなので、公式の <a href="https://docs.unity3d.com/ja/2018.4/Manual/TimelineOverview.html">Timeline</a> を拡張する。</li></ul></li></ul></li><li>Effect<ul><li>Blow Hit で壁や敵に当たった時のエフェクトを追加できるようにする</li></ul></li><li>Shader<ul><li>キャラクターにカラーパレット設定を追加</li><li>vertex のゴースト再現shaderを試す</li></ul></li><li>Sound<ul><li>FMODに変わる音再生システムの構築</li></ul></li><li>Config<ul><li>キーコンフィグ画面の作成</li><li>WebGL で MouseOverしたときにカーソルを変えられる？</li></ul></li><li>Screen Shot<ul><li>パネルの位置保存</li></ul></li></ul>]]></content>
+        <author>
+            <name>kumak1</name>
+            <uri>https://github.com/kumak1</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Recollect 0.4.8]]></title>
         <id>Recollect 0.4.8</id>
         <link href="https://kumak1.github.io/RecollectDocument/blog/2021/11/07/0.4.8"/>
