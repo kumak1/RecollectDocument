@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuser_manual=self.webpackChunkuser_manual||[]).push([[1726],{4552:function(e){e.exports=JSON.parse('{"label":"BarricadeSetUpper","permalink":"/RecollectDocument/blog/tags/barricade-set-upper","allTagsPath":"/RecollectDocument/blog/tags","count":2}')}}]);
