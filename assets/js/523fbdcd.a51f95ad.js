@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkuser_manual=self.webpackChunkuser_manual||[]).push([[6125],{8097:function(e){e.exports=JSON.parse('{"permalink":"/RecollectDocument/blog/tags/recollect-ui-event","page":1,"postsPerPage":10,"totalPages":2,"totalCount":12,"nextPage":"/RecollectDocument/blog/tags/recollect-ui-event/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

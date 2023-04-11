@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuser_manual=self.webpackChunkuser_manual||[]).push([[5551],{13138:function(e){e.exports=JSON.parse('{"label":"RecollectTextInjector","permalink":"/RecollectDocument/blog/tags/recollect-text-injector","allTagsPath":"/RecollectDocument/blog/tags","count":1}')}}]);
