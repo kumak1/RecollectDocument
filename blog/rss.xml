@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Recollect User Manual Blog</title>
+        <title>Recollect Blog</title>
         <link>https://kumak1.github.io/RecollectDocument/blog</link>
-        <description>Recollect User Manual Blog</description>
+        <description>Recollect Blog</description>
         <lastBuildDate>Sun, 16 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
