@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuser_manual=self.webpackChunkuser_manual||[]).push([[9904],{37817:function(e){e.exports=JSON.parse('{"permalink":"/RecollectDocument/blog/page/8","page":8,"postsPerPage":10,"totalPages":8,"totalCount":77,"previousPage":"/RecollectDocument/blog/page/7","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
