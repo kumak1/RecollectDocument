@@ -18,8 +18,7 @@
             <name>kumak1</name>
             <uri>https://github.com/kumak1</uri>
         </author>
-        <category label="RecollectActor" term="RecollectActor"/>
-        <category label="RecollectDirector" term="RecollectDirector"/>
+        <category label="RecollectUI" term="RecollectUI"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Recollect 0.11.10]]></title>
