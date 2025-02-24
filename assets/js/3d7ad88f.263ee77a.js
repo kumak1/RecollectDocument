@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuser_manual=self.webpackChunkuser_manual||[]).push([[5676],{58024:e=>{e.exports=JSON.parse('{"permalink":"/RecollectDocument/blog/tags/recollect-text-injector","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

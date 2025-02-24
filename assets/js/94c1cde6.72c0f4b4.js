@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuser_manual=self.webpackChunkuser_manual||[]).push([[8152],{61389:e=>{e.exports=JSON.parse('{"label":"RecollectUiEquipChangeIcons","permalink":"/RecollectDocument/blog/tags/recollect-ui-equip-change-icons","allTagsPath":"/RecollectDocument/blog/tags","count":1,"unlisted":false}')}}]);
