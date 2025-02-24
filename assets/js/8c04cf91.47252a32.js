@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkuser_manual=self.webpackChunkuser_manual||[]).push([[5797],{26003:e=>{e.exports=JSON.parse('{"permalink":"/RecollectDocument/blog/tags/barricade-set-upper","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

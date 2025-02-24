@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkuser_manual=self.webpackChunkuser_manual||[]).push([[5705],{15502:e=>{e.exports=JSON.parse('{"label":"RecollectUI","permalink":"/RecollectDocument/blog/tags/recollect-ui","allTagsPath":"/RecollectDocument/blog/tags","count":2,"unlisted":false}')}}]);

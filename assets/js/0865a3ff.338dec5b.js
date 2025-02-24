@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkuser_manual=self.webpackChunkuser_manual||[]).push([[2176],{31805:e=>{e.exports=JSON.parse('{"label":"uPalette","permalink":"/RecollectDocument/blog/tags/u-palette","allTagsPath":"/RecollectDocument/blog/tags","count":2,"unlisted":false}')}}]);

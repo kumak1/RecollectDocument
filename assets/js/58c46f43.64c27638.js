@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkuser_manual=self.webpackChunkuser_manual||[]).push([[8218],{46985:e=>{e.exports=JSON.parse('{"label":"ScreenShot","permalink":"/RecollectDocument/blog/tags/screen-shot","allTagsPath":"/RecollectDocument/blog/tags","count":2,"unlisted":false}')}}]);

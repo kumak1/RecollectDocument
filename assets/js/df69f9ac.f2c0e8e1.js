@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkuser_manual=self.webpackChunkuser_manual||[]).push([[6005],{55252:e=>{e.exports=JSON.parse('{"label":"RecollectUiShotChangeIcons","permalink":"/RecollectDocument/blog/tags/recollect-ui-shot-change-icons","allTagsPath":"/RecollectDocument/blog/tags","count":1,"unlisted":false}')}}]);
