@@ -13,13 +13,18 @@
             <link>https://kumak1.github.io/RecollectDocument/blog/2025/05/07/0.12.0</link>
             <guid>https://kumak1.github.io/RecollectDocument/blog/2025/05/07/0.12.0</guid>
             <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[ダウンロード]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ダウンロード">ダウンロード<a href="https://kumak1.github.io/RecollectDocument/blog/2025/05/07/0.12.0#%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89" class="hash-link" aria-label="ダウンロード への直接リンク" title="ダウンロード への直接リンク">​</a></h2>
+            <description><![CDATA[変更箇所]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="変更箇所">変更箇所<a href="https://kumak1.github.io/RecollectDocument/blog/2025/05/07/0.12.0#%E5%A4%89%E6%9B%B4%E7%AE%87%E6%89%80" class="hash-link" aria-label="変更箇所 への直接リンク" title="変更箇所 への直接リンク">​</a></h2>
 <ul>
-<li><a href="https://gofile.me/6EgEy/dtvMeP5FT" target="_blank" rel="noopener noreferrer">Recollect.2024.0413.1.script.unitypackage</a></li>
+<li><a href="https://kumak1.github.io/RecollectDocument/docs/manual/component/ui/event#utage" target="_blank" rel="noopener noreferrer">RecollectUiEvent</a> に宴用のModeを追加しました</li>
+<li>宴のシナリオで使えるコマンドを追加しました<!-- -->
+<ul>
+<li><a href="https://kumak1.github.io/RecollectDocument/docs/manual/component/utage/command/situation_change/" target="_blank" rel="noopener noreferrer">RecollectSituationChange</a></li>
+<li><a href="https://kumak1.github.io/RecollectDocument/docs/manual/component/utage/command/player_action/" target="_blank" rel="noopener noreferrer">RecollectPlayerAction</a></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="変更箇所">変更箇所<a href="https://kumak1.github.io/RecollectDocument/blog/2025/05/07/0.12.0#%E5%A4%89%E6%9B%B4%E7%AE%87%E6%89%80" class="hash-link" aria-label="変更箇所 への直接リンク" title="変更箇所 への直接リンク">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="今後修正すること">今後修正すること<a href="https://kumak1.github.io/RecollectDocument/blog/2025/05/07/0.12.0#%E4%BB%8A%E5%BE%8C%E4%BF%AE%E6%AD%A3%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8" class="hash-link" aria-label="今後修正すること への直接リンク" title="今後修正すること への直接リンク">​</a></h2>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="今後修正すること">今後修正すること<a href="https://kumak1.github.io/RecollectDocument/blog/2025/05/07/0.12.0#%E4%BB%8A%E5%BE%8C%E4%BF%AE%E6%AD%A3%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8" class="hash-link" aria-label="今後修正すること への直接リンク" title="今後修正�すること への直接リンク">​</a></h2>
 <ul>
 <li>一つのEquipSetでない時アクタの変更の時ホログラムが出ない</li>
 <li>画面切り替えのとき<!-- -->
@@ -98,16 +103,6 @@
 </ul>
 </li>
 <li>アニメーションを逆再生できないか確認</li>
-</ul>
-</li>
-<li><a href="https://kumak1.github.io/RecollectDocument/docs/manual/editor_extension/fbx" target="_blank" rel="noopener noreferrer">FBX Importer</a>
-<ul>
-<li>JSON を用いた自動設定機能を削除</li>
-<li><code>FbxAnimationParam</code> のみの対応になるので、ご注意ください<!-- -->
-<ul>
-<li>JSONファイルを右クリック（複数選択可能）し、 <code>Recollect &gt; FbxAnimation &gt; Convert &gt; JsonToAsset</code> を選択して、JSONファイルから <code>FbxAnimationParam</code> を生成してください</li>
-</ul>
-</li>
 </ul>
 </li>
 </ul>]]></content:encoded>
